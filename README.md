@@ -1,2 +1,2 @@
-# Bulanik_ahpp
-En iyi adayı bulll !!!!
+# Bulanik_ahp
+Şirket kriterlerine göre en iyi adayı bulan winform uygulaması
